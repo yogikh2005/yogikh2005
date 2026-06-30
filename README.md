@@ -78,17 +78,6 @@
 - 📜 Java Certification – HackerRank
 - 📜 React Certification – HackerRank
 
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yogikh2005&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yogikh2005&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=yogikh2005&theme=tokyonight)
-
----
 
 ## 🤝 Connect With Me
 
