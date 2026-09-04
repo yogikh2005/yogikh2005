@@ -124,6 +124,7 @@
 
 * 🔗 **GitHub:** https://github.com/yogikh2005
 * 💼 **LinkedIn:** https://www.linkedin.com/in/yogiraj-khaladkar05
+* 🌐 **Portfolio:** https://yogirajdev.z29.web.core.windows.net/
 * 📧 **Email:** [yogikh2018@gmail.com](mailto:yogikh2018@gmail.com)
 
 ---
