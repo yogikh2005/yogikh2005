@@ -80,7 +80,7 @@
 
 ---
 
-### 🧾 GST Billing & Invoice Software
+### 🧾 Billora - GST Billing & Invoice Software
 
 **Tech Stack:** Java, Spring Boot, Spring Security, MySQL
 
